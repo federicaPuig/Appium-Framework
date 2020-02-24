@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="283247" started-at="2020-02-24T10:17:24 CST" finished-at="2020-02-24T10:22:07 CST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="283247" started-at="2020-02-24T10:17:24 CST" finished-at="2020-02-24T10:22:07 CST">
+      <class name="appiumcourse.AppiumMaven.ecommerceTest">
+        <test-method status="PASS" signature="killAllTheProcess()[pri:0, instance:appiumcourse.AppiumMaven.ecommerceTest@569cfc36]" name="killAllTheProcess" is-config="true" duration-ms="3033" started-at="2020-02-24T10:17:24 CST" finished-at="2020-02-24T10:17:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllTheProcess -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:appiumcourse.AppiumMaven.ecommerceTest@569cfc36]" name="totalValidation" duration-ms="103575" started-at="2020-02-24T10:17:27 CST" finished-at="2020-02-24T10:19:11 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- appiumcourse.AppiumMaven.ecommerceTest -->
+      <class name="appiumcourse.AppiumMaven.apiDemoTest">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:appiumcourse.AppiumMaven.apiDemoTest@43bd930a]" name="apiDemo" duration-ms="87671" started-at="2020-02-24T10:19:11 CST" data-provider="InputData" finished-at="2020-02-24T10:20:39 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:appiumcourse.AppiumMaven.apiDemoTest@43bd930a]" name="apiDemo" duration-ms="88882" started-at="2020-02-24T10:20:39 CST" data-provider="InputData" finished-at="2020-02-24T10:22:07 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- appiumcourse.AppiumMaven.apiDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

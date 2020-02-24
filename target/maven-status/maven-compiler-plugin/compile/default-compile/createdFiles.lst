@@ -1,0 +1,10 @@
+appiumcourse\AppiumMaven\base.class
+Resources\ExtentReporterNG.class
+appiumcourse\AppiumMaven\utilities.class
+appiumcourse\AppiumMaven\PageObjects\FormPage.class
+appiumcourse\AppiumMaven\PageObjects\Preferences.class
+appiumcourse\AppiumMaven\PageObjects\HomePage.class
+appiumcourse\AppiumMaven\PageObjects\wiFi.class
+appiumcourse\AppiumMaven\TestData.class
+appiumcourse\AppiumMaven\PageObjects\checkOutPage.class
+appiumcourse\AppiumMaven\PageObjects\Dependencies.class
